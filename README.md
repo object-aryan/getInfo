@@ -1,0 +1,2 @@
+# getInfo
+Information regarding me
